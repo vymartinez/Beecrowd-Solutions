@@ -1,1 +1,1 @@
-<h1>Beecrowd - C Solutions</h1>
+<h1>Beecrowd - Solutions</h1>
