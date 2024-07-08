@@ -1,0 +1,1 @@
+SELECT AVG(price)::numeric(10,2) FROM products;
